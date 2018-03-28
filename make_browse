@@ -1,0 +1,5 @@
+#!/bin/tcsh
+
+foreach i ($1*.png)
+	convert -resize $2% $i br_$i
+end

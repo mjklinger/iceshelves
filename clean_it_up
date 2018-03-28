@@ -1,0 +1,88 @@
+#!/bin/tcsh
+
+cd /data2/jennb/iceshelves/shelf_proc/abbot
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/amery
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/bryan
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/filch
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/fimbu
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/georg
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/getze
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/getzw
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/larsb
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/larsc
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/larsd
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/lazar
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/mertz
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/nanse
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/pinei
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/porpo
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/ragnh
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/riise
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/ronne
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/rosse
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/rossw
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/sabri
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/scoti
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/shack
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/sulzb
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/syowa
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/westi
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/wilki
+rm -f *.*
+
+cd /data2/jennb/iceshelves/shelf_proc/wordi
+rm -f *.*
